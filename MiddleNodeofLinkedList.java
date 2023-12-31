@@ -7,6 +7,9 @@ class ListNode{
         this.val=val;
         this.next=null;
     }
+    public ListNode(){
+
+    }
 }
 public class MiddleNodeofLinkedList {
 
